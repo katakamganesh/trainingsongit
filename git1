@@ -1,1 +1,11 @@
 this is for github
+create folder
+git init
+add folders or files
+check git status
+if there are untracked files
+git add .
+git status
+git commit
+git log
+git branch
